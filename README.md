@@ -1,2 +1,2 @@
-# vba
-Visual Basic For Application
+# Excel VBA
+Excel Visual Basic For Application
